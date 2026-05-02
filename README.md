@@ -9,6 +9,7 @@ Welcome to the **Almaty TECH Map** repository for [devsmap.com](https://devsmap.
 
 любителям 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nCLohXk_ph8GhXSXwP0w7MpZAaCkEGs&ehbc=2E312F" width="640" height="480"></iframe>
+https://www.google.com/maps/d/u/0/embed?mid=1nCLohXk_ph8GhXSXwP0w7MpZAaCkEGs&ehbc=2E312F&ll=43.22889985887025%2C76.91222300000001&z=13
 
 ## 🤝 Call for Contributors (Add Your Company!)
 
